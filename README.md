@@ -1,8 +1,8 @@
-# 🚀 DataLendo - Analyse Retail Stratégique Avancée
+#  DataLendo - Analyse Retail Stratégique Avancée
 
 **DataLendo** est un projet d’analyse de données retail complet qui transforme **15 000 transactions** en leviers de croissance stratégiques pour l’optimisation de la performance commerciale.
 
-## 🎯 Objectifs du Projet
+##  Objectifs du Projet
 
 - Nettoyer et structurer une grande base de données transactionnelles
 - Concevoir et peupler une base de données relationnelle avec SQL
