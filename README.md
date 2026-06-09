@@ -1,40 +1,54 @@
-# 🚀 DataLendo - Analyse Retail Stratégique
+# 🚀 DataLendo - Analyse Retail Stratégique Avancée
 
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-
-**DataLendo** est un projet d’analyse avancée de données retail qui transforme **15 000 transactions** en insights stratégiques pour optimiser la performance commerciale.
+**DataLendo** est un projet d’analyse de données retail complet qui transforme **15 000 transactions** en leviers de croissance stratégiques pour l’optimisation de la performance commerciale.
 
 ## 🎯 Objectifs du Projet
 
-- Nettoyer et structurer une importante base de données transactionnelles
-- Réaliser des analyses SQL complexes (agrégations, jointures, fenêtres)
-- Identifier les leviers de croissance (produits, périodes, segments clients)
-- Produire un reporting professionnel et des recommandations actionnables
+- Nettoyer et structurer une grande base de données transactionnelles
+- Concevoir et peupler une base de données relationnelle avec SQL
+- Réaliser des analyses avancées (KPI, tendances, segmentation clients/produits)
+- Produire un rapport professionnel avec insights actionnables
+- Préparer les données pour la Business Intelligence (visualisation)
 
 ## 📁 Structure du Projet
 
 | Fichier / Dossier              | Description |
-|-------------------------------|-------------|
-| `donnees/`                    | Données brutes et nettoyées |
-| `BaseDeDonnee.sql`            | Script complet de création et peuplement de la base |
-| `Requetes_De_Resolutions.sql` | Requêtes analytiques avancées (KPI, tendances, segmentation) |
-| `Consigne_Et_Analyse.pdf`     | Cahier des charges et consignes |
-| `RapportLendo.pdf`            | Rapport final détaillé avec visualisations |
+|-------------------------------|-----------|
+| `donnees/`                    | Dossier contenant les données brutes et nettoyées |
+| `BaseDeDonnee.sql`            | Script SQL complet de création de la base et insertion des données |
+| `Requetes_De_Resolutions.sql` | Requêtes analytiques avancées (agrégations, CTE, Window Functions, etc.) |
+| `Consigne_Et_Analyse.pdf`     | Cahier des charges et consignes du projet |
+| `RapportLendo.pdf`            | Rapport final d’analyse avec visualisations et recommandations |
 
-## 🛠️ Technologies & Traitements Réalisés
+## 🛠️ Technologies utilisées
 
-- **SQL** : Création de schéma, insertion massive, requêtes analytiques (GROUP BY, CTE, Window Functions)
-- **Analyse de données** : Tendances temporelles, performance par catégorie/région, panier moyen, etc.
-- **Business Intelligence** : Préparation pour visualisation (Power BI / Excel)
+- **SQL** (PostgreSQL / MySQL compatible)
+  - Création de schéma relationnel
+  - Insertion massive de données
+  - Requêtes analytiques complexes (GROUP BY, JOIN, CTE, Window Functions)
+- **Analyse de Données** : Calcul de KPIs (panier moyen, CA par période, produits phares, etc.)
+- **Business Intelligence** : Préparation pour Power BI / Tableau / Excel
 
 ## 📊 Principaux Résultats
 
-- Transformation réussie de 15 000 lignes de données brutes en base exploitable
-- Identification claire des produits et périodes les plus rentables
-- Recommandations stratégiques pour l’optimisation des stocks et des promotions
+- Transformation réussie de **15 000 lignes** de données brutes en une base propre et exploitable
+- Identification des produits, catégories et périodes les plus rentables
+- Segmentation clients et analyse des tendances temporelles
+- Recommandations concrètes pour l’optimisation des stocks, promotions et stratégie commerciale
+
+## 🔗 Liens rapides
+
+- [Base de Données - Script SQL](https://github.com/Augustin-MI/Datalendo/blob/main/BaseDeDonnee.sql)
+- [Requêtes Analytiques](https://github.com/Augustin-MI/Datalendo/blob/main/Requetes_De_Resolutions.sql)
+- [Rapport Final (PDF)](https://github.com/Augustin-MI/Datalendo/blob/main/RapportLendo.pdf)
+- [Consignes du Projet](https://github.com/Augustin-MI/Datalendo/blob/main/Consigne_Et_Analyse.pdf)
 
 ---
 
-**Auteur** : Augustin MI  
-**Date** : 2025
+**Auteur** : Augustin MI (Koffivi Augustin)  
+**Date de réalisation** : Février 2026  
+**Domaine** : Data Analysis • SQL • Retail Analytics
+
+---
+
+*Ce projet fait partie de mon portfolio Data Science. Voir aussi [DataLab](https://github.com/Augustin-MI/DataLab) pour mes attestations de formation.*
