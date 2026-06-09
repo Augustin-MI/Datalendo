@@ -84,5 +84,3 @@
 **Domaine** : Data Analysis • SQL • Retail Analytics • Business Intelligence
 
 ---
-
-*Ce projet fait partie de mon portfolio Data Science. Voir aussi [DataLab](https://github.com/Augustin-MI/DataLab) pour mes attestations de formation.*
