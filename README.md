@@ -15,7 +15,7 @@
 - Produire un rapport professionnel avec recommandations actionnables
 - Préparer les données pour des outils de Business Intelligence (Power BI, Tableau, etc.)
 
-## 🛠️ Solutions Mises en Œuvre
+## 🛠️ Solutions Mises en Oeuvre
 
 ### 1. Création et Peuplement de la Base de Données
 - Conception d’un **schéma relationnel** optimisé (tables clients, produits, transactions, catégories, etc.)
